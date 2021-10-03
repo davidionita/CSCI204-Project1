@@ -1,0 +1,15 @@
+Bear Male 314.15
+Fish Female 25.6
+None
+Fish Male 31.415
+
+Fish Male 31.415
+Bear Male 339.75
+None
+None
+
+Fish Male 31.415
+None
+Bear Male 339.75
+None
+
