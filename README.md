@@ -18,3 +18,4 @@ Written for easier testing when not using a full IDE like repl.it
 > Note: If you are having trouble using the Makefile, please install dependencies manually by running `pip(3) install -r requirements.txt` (or use a venv). 
 
 > If you're on macOS and having problems finding the module after installation, this is a workaround `python3 -m pip install Pillow` that worked for me.
+> 
